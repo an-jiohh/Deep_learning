@@ -1,2 +1,3 @@
 print("hello word")
-print('asdf')
+i = 0
+print(i)
