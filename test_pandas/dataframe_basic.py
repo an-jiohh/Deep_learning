@@ -16,7 +16,6 @@ print(df2)
 df2.to_csv("tmp.csv")
 
 # 결과파일 읽기
-df2.to_csv("tmp2.csv", )
 df2_read = pd.read_csv('tmp.csv')
 print(df2_read)
 
